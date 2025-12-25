@@ -101,7 +101,7 @@ ws.disconnect();
 
 ```typescript
 interface SnowOracleClientOptions {
-  baseUrl?: string;      // Default: 'https://snow-oracle-ball.replit.app'
+  baseUrl?: string;      // Default: 'https://app.snow-oracleball.com'
   timeout?: number;      // Default: 30000 (30s)
   headers?: Record<string, string>;
 }
@@ -270,6 +270,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Part of the Snow Oracle Ball ecosystem**
 
-[Main App](https://snow-oracle-ball.replit.app) | [Documentation](https://github.com/yourusername/snow-oracle-ball)
+[Main App](https://app.snow-oracleball.com/) | [Documentation](https://snow-oracleball.com/#/docs)
 
 </div>
